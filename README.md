@@ -20,7 +20,7 @@ A developer focused on building automation workflows, web scrapers, and utility 
 
 <blockquote>
   <b>人生就是個巨大的草台班子，而我將盡力扮演好小丑的角色。</b><br>
-  <b>千萬不要去小看成功的人，他乘載的是無數小丑的賣力演出。</b>
+  <b>千萬不要去小看成功的人，他承載的是無數小丑的賣力演出。</b>
   <br><br>
   <samp><i>
       Accepting that I am not special, and that my role might just be the background noise that makes the protagonist shine. But even a background needs to be executed properly.
