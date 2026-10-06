@@ -1,6 +1,10 @@
 ## Hi 👋, I'm Yaliang
 
-A developer focused on building automation workflows, web scrapers, and utility tools.
+A senior in Computer Science and Information Engineering at National Taipei University of Technology (NTUT), with a minor in Civil Engineering. I enjoy building LLM applications and full-stack systems that people actually use. Welcome to my webpage 👉[Link](https://yaliang.shao-dev.com/).
+
+<!-- 推甄期間暫時隱藏（原自介）
+A developer focused on building automation workflows, web scrapers, and utility tools. Welcome to my webpage 👉[Link](https://yaliang.shao-dev.com/).
+-->
 
 <br>
 
@@ -16,6 +20,7 @@ A developer focused on building automation workflows, web scrapers, and utility 
 
 ---
 
+<!-- 推甄期間暫時隱藏（Motto）
 ### Motto
 
 <blockquote>
@@ -28,6 +33,7 @@ A developer focused on building automation workflows, web scrapers, and utility 
 </blockquote>
 
 ---
+-->
 
 ### Profile & Contact
 
